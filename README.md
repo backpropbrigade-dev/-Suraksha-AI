@@ -1,6 +1,6 @@
 # SurakshaAI
 
-**AI-powered Digital Public Safety Platform** — built for the ET AI Hackathon 2026
+**AI-powered Digital Public Safety Platform**
 
 Defeating counterfeiting, fraud, and digital arrest scams through a unified intelligence platform for citizens and law enforcement.
 
